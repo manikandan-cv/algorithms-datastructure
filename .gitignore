@@ -8,3 +8,5 @@ programs/.idea/misc.xml
 programs/.idea/modules.xml
 programs/.idea/vcs.xml
 **.idea/**
+*.class
+
