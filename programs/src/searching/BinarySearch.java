@@ -22,7 +22,7 @@ public class BinarySearch {
      *  Check the element against the middle of the array
      *  if element is greater , Move the low pointer as middleIndex + 1
      *  if element is low , Move the high pointer as middleIndex - 1
-     *  
+     *
      * @return
      */
     public static int findElementUsingWhileLoop(int el , int[] a) {
